@@ -2,7 +2,7 @@
 
 A professional transitioning into the IT industry, currently based in Belém, Brazil. I am passionate about understanding how technology works from the ground up—from backend code to the infrastructure supporting it.
 
-- 🎓 **Education:** Degree in Systems Analysis and Development (ADS) @ Uninassau.
+- 🎓 **Education:** Degree in Systems Analysis and Development (ADS)
 - 💼 **Background:** Over 5 years of experience in Operational Management, process optimization, and data analysis (bringing strong soft skills and problem-solving maturity to dev teams).
 - 🎯 **Current Focus:** Advanced Java, Relational Databases (MySQL), and building RESTful APIs.
 
