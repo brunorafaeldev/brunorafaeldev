@@ -38,5 +38,5 @@ Check out my main repositories pinned below:
 ---
 
 ## 🤝 Connect with me
-* 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+* 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/brunorafaellira/)
 * ✉️ Email: brunorafaellira@hotmail.com
